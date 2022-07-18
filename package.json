@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v4.x/docs/src/pages/components/cards/MediaCard.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "title": "Material demo",
+  "name": "material-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
